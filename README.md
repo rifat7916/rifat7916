@@ -1,4 +1,4 @@
-![I am an Android/IOS developer](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.desktopbackground.org%2Fdownload%2Fo%2F2011%2F04%2F01%2F181187_gallery-for-android-wallpapers-programming_1920x1080_h.jpg&tbnid=E9C8Fs0XpXvGqM&vet=12ahUKEwjk39_1-OyFAxWkmmMGHf0BB_sQMygBegQIARBM..i&imgrefurl=https%3A%2F%2Fwww.desktopbackground.org%2Fwallpaper%2Fgallery-for-android-wallpapers-programming-181187&docid=W7clBNUOIZaLKM&w=1920&h=1080&q=android%20developer%20photo%2016%3A9&ved=2ahUKEwjk39_1-OyFAxWkmmMGHf0BB_sQMygBegQIARBM)
+(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.desktopbackground.org%2Fdownload%2Fo%2F2011%2F04%2F01%2F181187_gallery-for-android-wallpapers-programming_1920x1080_h.jpg&tbnid=E9C8Fs0XpXvGqM&vet=12ahUKEwjk39_1-OyFAxWkmmMGHf0BB_sQMygBegQIARBM..i&imgrefurl=https%3A%2F%2Fwww.desktopbackground.org%2Fwallpaper%2Fgallery-for-android-wallpapers-programming-181187&docid=W7clBNUOIZaLKM&w=1920&h=1080&q=android%20developer%20photo%2016%3A9&ved=2ahUKEwjk39_1-OyFAxWkmmMGHf0BB_sQMygBegQIARBM)
 
 ### Hi there 👋, my name is Rifat Amin
 #### I am an Android/IOS developer
