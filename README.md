@@ -1,8 +1,8 @@
-(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.desktopbackground.org%2Fdownload%2Fo%2F2011%2F04%2F01%2F181187_gallery-for-android-wallpapers-programming_1920x1080_h.jpg&tbnid=E9C8Fs0XpXvGqM&vet=12ahUKEwjk39_1-OyFAxWkmmMGHf0BB_sQMygBegQIARBM..i&imgrefurl=https%3A%2F%2Fwww.desktopbackground.org%2Fwallpaper%2Fgallery-for-android-wallpapers-programming-181187&docid=W7clBNUOIZaLKM&w=1920&h=1080&q=android%20developer%20photo%2016%3A9&ved=2ahUKEwjk39_1-OyFAxWkmmMGHf0BB_sQMygBegQIARBM)
+![ Android/IOS developer](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Fandroid-developer-pykosb3lflwq3sz3.jpg&tbnid=QWOVWmIBiUc-fM&vet=10CBEQxiAoA2oXChMIiOik9vjshQMVAAAAAB0AAAAAEA8..i&imgrefurl=https%3A%2F%2Fwallpapers.com%2Fwallpapers%2Fandroid-developer-pykosb3lflwq3sz3.html&docid=GPQT9Iqx9op2OM&w=1600&h=900&itg=1&q=android%20developer%20photo%2016%3A9&ved=0CBEQxiAoA2oXChMIiOik9vjshQMVAAAAAB0AAAAAEA8)
+
 
 ### Hi there 👋, my name is Rifat Amin
-#### I am an Android/IOS developer
-
+####  Android/IOS developer
 
 Versatile coder passionate about problem-solving, with a flair for clean, efficient code. Dedicated to continuous learning and fostering collaboration within the developer community. Open-source enthusiast and avid contributor
 
