@@ -1,12 +1,12 @@
-![ Android/IOS developer](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Fandroid-developer-pykosb3lflwq3sz3.jpg&tbnid=QWOVWmIBiUc-fM&vet=10CBEQxiAoA2oXChMIiOik9vjshQMVAAAAAB0AAAAAEA8..i&imgrefurl=https%3A%2F%2Fwallpapers.com%2Fwallpapers%2Fandroid-developer-pykosb3lflwq3sz3.html&docid=GPQT9Iqx9op2OM&w=1600&h=900&itg=1&q=android%20developer%20photo%2016%3A9&ved=0CBEQxiAoA2oXChMIiOik9vjshQMVAAAAAB0AAAAAEA8)
+
 
 
 ### Hi there 👋, my name is Rifat Amin
 ####  Android/IOS developer
 
-Versatile coder passionate about problem-solving, with a flair for clean, efficient code. Dedicated to continuous learning and fostering collaboration within the developer community. Open-source enthusiast and avid contributor
+Versatile coder passionate about problem-solving, with a flair for clean, efficient code. Dedicated to continuous learning and fostering collaboration within the developer community. Open-source enthusiast and avid contributor.
 
-Skills: Python / Dart / Java
+Skills: Python / Dart / Java / Flutter
 
 - 🔭 I’m currently working on Inventory Management System 
 - 🌱 I’m currently learning Data Analysing 
