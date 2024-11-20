@@ -8,7 +8,7 @@ Versatile coder passionate about problem-solving, with a flair for clean, effici
 
 Skills: Python / Dart / Java / Flutter
 
-- 🔭 I’m currently working on Inventory Management System 
+- 🔭 I’m currently working on leveraging machine learning to decode environmental change and drive sustainable solutions
 - 🌱 I’m currently learning Data Analysing 
 - 🤔 I’m looking for help with become a proficient Android / IOS developer 
 - 💬 Ask me about App Development 
