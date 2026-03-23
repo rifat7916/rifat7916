@@ -2,17 +2,17 @@
 
 
 ### Hi there 👋, my name is Rifat Amin
-####  Android/IOS developer
+####  AI & Machine Learning Specialist | Backend Developer
 
-Versatile coder passionate about problem-solving, with a flair for clean, efficient code. Dedicated to continuous learning and fostering collaboration within the developer community. Open-source enthusiast and avid contributor.
+I am a Computer Science and Engineering graduate specializing in Artificial Intelligence and Machine Learning. I am experienced in developing machine learning and data analysis models, and I combine this expertise with backend development to build robust, end-to-end solutions.
 
-Skills: Python / Dart / Java / Flutter
+Skills: Python / Java / Django / FastAPI / PostgreSQL / Machine Learning / Git
 
 - 🔭 I’m currently working on leveraging machine learning to decode environmental change and drive sustainable solutions
-- 🌱 I’m currently learning Data Analysing 
+- 🌱 I’m currently learning Cloud Computing
 - 🤔 I’m looking for help with become a proficient Android / IOS developer 
-- 💬 Ask me about App Development 
-- 📫 How to reach me: raifathai17@gmail.com 
+- 💬 Ask me about Machine Learning 
+- 📫 How to reach me: rifatamin0007@gmail.com 
 - 😄 Pronouns: He / him / his 
 - ⚡ Fun fact: Coding bugs were not named after an actual bug 
 
